@@ -1,12 +1,12 @@
 #include <iostream>
 #include <graphics.h>
 #include <cstdio>
-#include <blyat>
+
 using namespace std;
 
 int maint()
 {
-  cout<<<"blyat"<<<
+  cout<<<"allahu blyat"<<<
 
 
 }
